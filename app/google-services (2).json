@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "812850980860",
+    "project_id": "redemptionss",
+    "storage_bucket": "redemptionss.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812850980860:android:1e4805f54c952edc057479",
+        "android_client_info": {
+          "package_name": "com.quintus.labs.grocerystore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812850980860-s04hpg5laee3d7dtkff7oqn8ps9qh6pa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.quintus.labs.grocerystore",
+            "certificate_hash": "ce7c9baf75bdc4395dd3776860a78dc71db0e270"
+          }
+        },
+        {
+          "client_id": "812850980860-buunn29krf3vgukrrsingi3qaumcvi74.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7QUlUgMpyBZJBsmGFW5zgTgKGnaN-ukU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812850980860-buunn29krf3vgukrrsingi3qaumcvi74.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
